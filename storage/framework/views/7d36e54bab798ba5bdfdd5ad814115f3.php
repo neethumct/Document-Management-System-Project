@@ -1,0 +1,2 @@
+<a class="dropdown-item" wire:click='logout' style="cursor: pointer">Logout</a>
+<?php /**PATH C:\Users\USER\LaravelProject\DocumentManagementSystem\resources\views/livewire/user/logout.blade.php ENDPATH**/ ?>
